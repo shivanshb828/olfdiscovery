@@ -1,0 +1,14 @@
+receptor = OR51E2.pdbqt
+ligand = propionate.pdbqt
+
+center_x = 112.706
+center_y = 118.085
+center_z = 81.41
+
+size_x = 50
+size_y = 50
+size_z = 50
+
+energy_range = 4
+
+exhaustiveness = 8
