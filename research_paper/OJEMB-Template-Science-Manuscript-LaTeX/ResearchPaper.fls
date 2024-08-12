@@ -2,8 +2,8 @@ PWD /Users/shivanshbansal/Documents/olfdrugdiscovery/olfdiscovery/research_paper
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/shivanshbansal/Documents/olfdrugdiscovery/olfdiscovery/research_paper/OJEMB-Template-Science-Manuscript-LaTeX/OJEMB Science Template.tex
-OUTPUT OJEMB Science Template.log
+INPUT /Users/shivanshbansal/Documents/olfdrugdiscovery/olfdiscovery/research_paper/OJEMB-Template-Science-Manuscript-LaTeX/ResearchPaper.tex
+OUTPUT ResearchPaper.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
@@ -662,10 +662,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./OJEMB Science Template.aux
-INPUT OJEMB Science Template.aux
-INPUT OJEMB Science Template.aux
-OUTPUT OJEMB Science Template.aux
+INPUT ./ResearchPaper.aux
+INPUT ResearchPaper.aux
+INPUT ResearchPaper.aux
+OUTPUT ResearchPaper.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omspzccm.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omspzccm.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omspzccm.fd
@@ -728,13 +728,21 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT ./intro.tex
-INPUT intro.tex
-INPUT ./intro.tex
-INPUT intro.tex
+INPUT ./inputfiles/intro.tex
+INPUT inputfiles/intro.tex
+INPUT ./inputfiles/intro.tex
+INPUT inputfiles/intro.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT ./inputfiles/results.tex
+INPUT inputfiles/results.tex
+INPUT ./inputfiles/results.tex
+INPUT inputfiles/results.tex
+INPUT ./inputfiles/discussion.tex
+INPUT inputfiles/discussion.tex
+INPUT ./inputfiles/discussion.tex
+INPUT inputfiles/discussion.tex
 INPUT ./embLogo.eps
 INPUT ./embLogo.eps
 INPUT embLogo.eps
@@ -745,7 +753,7 @@ INPUT ./embLogo-eps-converted-to.pdf
 INPUT ./embLogo.eps
 INPUT ./embLogo-eps-converted-to.pdf
 INPUT ./embLogo-eps-converted-to.pdf
-OUTPUT OJEMB Science Template.pdf
+OUTPUT ResearchPaper.pdf
 INPUT ./embLogo-eps-converted-to.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
@@ -797,6 +805,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT ./inputfiles/conclusion.tex
+INPUT inputfiles/conclusion.tex
+INPUT ./inputfiles/conclusion.tex
+INPUT inputfiles/conclusion.tex
 INPUT ./fig1.png
 INPUT ./fig1.png
 INPUT ./fig1.png
@@ -852,6 +864,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfchan/pzcmi8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/zpzccmry.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfchan/pzcmi8r.tfm
+INPUT ./inputfiles/materialsmethods.tex
+INPUT inputfiles/materialsmethods.tex
+INPUT ./inputfiles/materialsmethods.tex
+INPUT inputfiles/materialsmethods.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcmr.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcmrm.tfm
@@ -879,6 +895,10 @@ INPUT ./embLogo-eps-converted-to.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT ./inputfiles/bibliography.tex
+INPUT inputfiles/bibliography.tex
+INPUT ./inputfiles/bibliography.tex
+INPUT inputfiles/bibliography.tex
 INPUT ./embLogo.eps
 INPUT ./embLogo.eps
 INPUT embLogo.eps
@@ -893,7 +913,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT OJEMB Science Template.aux
+INPUT ResearchPaper.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
