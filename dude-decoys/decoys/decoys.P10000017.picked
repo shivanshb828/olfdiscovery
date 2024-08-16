@@ -1,4 +1,4 @@
-ligand	C([C@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H](C=O)[C@@H]([C@@H]([C@@H](CO)O)O)O)O)O)O)O	8	P10000017
+ligand	C([C@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H](C=O)[C@@H]([C@@H]([C@@H](CO)O)O)O)O)O)O)O	P10000017
 C[C@H](C(=O)N)NC(=O)C1=C[C@H]([C@H]([C@@H](C1)O)O)NC(=O)C[NH2+]C	C03838821	P04500259
 Cn1c2c(c(=O)n(c1=O)C)[n+](c([nH]2)NN)C[C@@H](CO)O	C01252079	P04543556
 Cn1c2c(c(=O)[nH]c1=O)[n+](c([nH]2)NN)C[C@@H](COc3ccccc3)O	C00434618	P04572564

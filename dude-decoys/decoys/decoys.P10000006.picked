@@ -1,4 +1,4 @@
-ligand	C[C@@]12CC[C@H]3c4ccc(cc4CC[C@@H]3[C@H]1C[C@H]([C@@H]2O)O)O	1	P10000006
+ligand	C[C@@]12CC[C@H]3c4ccc(cc4CC[C@@H]3[C@H]1C[C@H]([C@@H]2O)O)O	P10000006
 c1cc(ccc1C2NC(=S)NC(=S)N2)Br	C00053435	P06041438
 c1ccc(c(c1)[C@H](c2ccc3c(c2)CC(=O)N3)N)F	C19969645	P29718580
 Cc1cc(c(c(c1)C)[C@H](c2ccc3c(c2)CC(=O)N3)N)C	C19969677	P29718594

@@ -1,4 +1,4 @@
-ligand	c1nc(c2c(n1)n(cn2)[C@@H]3[C@@H]4[C@H]([C@H](O3)CO)O[P@](=O)(O4)[O-])N	12	P10000022
+ligand	c1nc(c2c(n1)n(cn2)[C@@H]3[C@@H]4[C@H]([C@H](O3)CO)O[P@](=O)(O4)[O-])N	P10000022
 Cc1c(cc(cc1NC(=O)c2cccc(c2)[N+](=O)[O-])S(=O)(=O)[O-])N	C01680652	P09376872
 c1cc2c(nc1)N[C@]3(CCC(=O)N(CC3)C/C(=N/c4nccs4)/[O-])NC2=O	C19346655	P28593646
 c1cc(ccc1[C@H](Nn2cnnc2)[P@](=O)(O)[O-])[N+](=O)[O-]	C16401190	P52213973

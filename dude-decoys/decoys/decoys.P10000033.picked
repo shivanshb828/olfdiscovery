@@ -1,4 +1,4 @@
-ligand	c12c([nH]c(=O)[nH]1)nc([nH]c2=O)N	18	P10000033
+ligand	c12c([nH]c(=O)[nH]1)nc([nH]c2=O)N	P10000033
 [C@@H]1([C@@H](NC(N1)O)O)O	C03099341	P05147970
 Cc1nc(nc(n1)NN)N	C02510251	P05610208
 [H]/N=c\1/n(c2ccccc2n1N)CCO	C04663545	P06554477

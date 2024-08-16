@@ -1,4 +1,4 @@
-ligand	Cc1c(c2c(cc1O)CC[C@@](O2)(C)CCC(=O)[O-])C	13	P10000021
+ligand	Cc1c(c2c(cc1O)CC[C@@](O2)(C)CCC(=O)[O-])C	P10000021
 c1ccc(c(c1)Nc2ccc(cn2)C(=O)[O-])Cl	C04217750	P05486918
 c1cc(c(c(c1)Cl)Cl)Nc2c(cccn2)C(=O)[O-]	C00001282	P12358935
 c1ccc(cc1)/N=C(/Nc2ccc(cc2)C(=O)[O-])\S	C08683938	P13314183

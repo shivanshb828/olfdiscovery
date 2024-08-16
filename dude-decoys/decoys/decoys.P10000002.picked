@@ -1,4 +1,4 @@
-ligand	C(CC(=O)[O-])C(=O)C(=O)[O-]	21	P10000002
+ligand	C(CC(=O)[O-])C(=O)C(=O)[O-]	P10000002
 c1cc(ccc1c2[n-]nnn2)c3[n-]nnn3	C01720089	P07254239
 c1cc(ccc1N)OP(=O)([O-])[O-]	C02558168	P09269028
 c1ccc(cc1)OCP(=O)([O-])[O-]	C13836393	P21313038

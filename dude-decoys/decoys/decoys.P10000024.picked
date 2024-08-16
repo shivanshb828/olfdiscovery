@@ -1,4 +1,4 @@
-ligand	CC(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-]	15	P10000024
+ligand	CC(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-]	P10000024
 C1[C@@H]([C@@H](O[C@@H]1O)COP(=O)([O-])[O-])O	C03869832	P04546287
 C(C=O)[C@H]([C@@H](COP(=O)([O-])[O-])O)O	C04543673	P06191558
 C1C[C@@]2(N(C1=O)[C@H](CS2)C(=O)[O-])C(=O)[O-]	C02634434	P08744043

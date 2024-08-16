@@ -1,4 +1,4 @@
-ligand	C([C@@H](C(=O)[O-])O)O	22	P10000004
+ligand	C([C@@H](C(=O)[O-])O)O	P10000004
 C(CO)c1n[n-]nn1	C01235060	P18163017
 Cc1c(cnc(n1)N)C(=O)[O-]	C02545015	P24050331
 [H]/N=c\1/c-2ccc[n-]c2n[nH]1	C00168464	P38314082
