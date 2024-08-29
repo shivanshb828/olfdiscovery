@@ -26,7 +26,6 @@ COC1=C(C=CC(=C1)OC)NC(C1=C(C=CC=C1)NS(=O)(=O)C=1SC=CC1)=O
 ClC1=C(C=C(C=C1)S(=O)(=O)NC1=CC=C(C=C1)N1N=NC=C1C(F)(F)F)[N+](=O)[O-]
 COC1=C(C=CC=C1)CN(C(CC=1N=C(SC1)C1=CC=CC=C1)=O)C
 CC(=O)c4ccc(OCC(=O)N2CCC1=C(CCS1)C2C3CCCS3)cc4
-
 C1CC(C1)(C(=O)[O-])NC(=O)c2[n-]nnn2
 c1ccc2c(c1)C[C@H](N(C2)CC(=O)[O-])C(=O)[O-]
 c1cn(c(nc1=O)[O-])C[C@H](C(=O)[O-])N
